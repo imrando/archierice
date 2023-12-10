@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+hyprshot -m output -o screenshots
+notify-send "Screenshot copied to clipboard" -a "ss"
